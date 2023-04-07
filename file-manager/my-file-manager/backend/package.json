@@ -1,0 +1,18 @@
+{
+    "name": "my-file-manager-backend",
+    "version": "1.0.0",
+    "description": "Backend server for my-file-manager",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js",
+      "dev": "nodemon app.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "mongoose": "^6.2.3"
+    },
+    "devDependencies": {
+      "nodemon": "^2.1.7"
+    }
+  }
+  

@@ -1,0 +1,16 @@
+{
+    "name": "my-file-manager-database",
+    "version": "1.0.0",
+    "description": "Database module for My File Manager project",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "mongoose": "^5.13.5"
+    },
+    "devDependencies": {},
+    "author": "Your Name",
+    "license": "MIT"
+  }
+  
